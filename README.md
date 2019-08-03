@@ -13,7 +13,7 @@ In Visual Studio goto View -> Other Windows -> Package manager and type
 1. Goto Project -> Manage NuGet packages
 2. Click Browse
 3. Search ClickATellAPI
-4. On the righ hand side click install 
+4. On the right hand side click install 
 
 
 ## Usage
