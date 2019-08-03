@@ -3,6 +3,19 @@
 **This is an unoffical Click A Tell platform API for .NET**
 
 ## Install Package
+In Visual Studio goto View -> Other Windows -> Package manager and type
+  
+    Install-Package ClickATellAPI -Version 1.0.0
+
+https://www.nuget.org/packages/ClickATellAPI/
+
+**or**
+
+1. Goto Project -> Manage NuGet packages
+2. Click Browse
+3. Search ClickATellAPI
+4. On the righ hand side click install 
+
 
 ## Usage
 
