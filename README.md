@@ -26,7 +26,7 @@ Add Namespaces
     
 Configure API Key
 
-    Authenticate.ApiKey = "8Jr1Jr9oQFGCV4wnCvHOnA==";
+    Authenticate.ApiKey = "8Jr1Jr9oQFGCV4wDfaEnA==";
 	Authenticate.Test_Login(true);//Test API Key
     
 Setup [country code](https://countrycode.org/) and sending phone number
