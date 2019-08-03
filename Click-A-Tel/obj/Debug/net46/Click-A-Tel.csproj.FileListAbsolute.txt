@@ -1,0 +1,5 @@
+C:\Users\Marcello\source\repos\Click-A-Tell-.NET\Click-A-Tel\bin\Debug\net46\Click-A-Tel.dll
+C:\Users\Marcello\source\repos\Click-A-Tell-.NET\Click-A-Tel\obj\Debug\net46\Click-A-Tel.csprojAssemblyReference.cache
+C:\Users\Marcello\source\repos\Click-A-Tell-.NET\Click-A-Tel\obj\Debug\net46\Click-A-Tel.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\source\repos\Click-A-Tell-.NET\Click-A-Tel\obj\Debug\net46\Click-A-Tel.AssemblyInfoInputs.cache
+C:\Users\Marcello\source\repos\Click-A-Tell-.NET\Click-A-Tel\obj\Debug\net46\Click-A-Tel.AssemblyInfo.cs

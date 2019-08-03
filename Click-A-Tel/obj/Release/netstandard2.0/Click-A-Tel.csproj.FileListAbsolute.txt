@@ -1,0 +1,8 @@
+C:\Users\Marcello\source\repos\Click-A-Tell-.NET\Click-A-Tel\bin\Release\netstandard2.0\Click-A-Tel.deps.json
+C:\Users\Marcello\source\repos\Click-A-Tell-.NET\Click-A-Tel\bin\Release\netstandard2.0\Click-A-Tel.dll
+C:\Users\Marcello\source\repos\Click-A-Tell-.NET\Click-A-Tel\bin\Release\netstandard2.0\Click-A-Tel.pdb
+C:\Users\Marcello\source\repos\Click-A-Tell-.NET\Click-A-Tel\obj\Release\netstandard2.0\Click-A-Tel.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\source\repos\Click-A-Tell-.NET\Click-A-Tel\obj\Release\netstandard2.0\Click-A-Tel.AssemblyInfoInputs.cache
+C:\Users\Marcello\source\repos\Click-A-Tell-.NET\Click-A-Tel\obj\Release\netstandard2.0\Click-A-Tel.AssemblyInfo.cs
+C:\Users\Marcello\source\repos\Click-A-Tell-.NET\Click-A-Tel\obj\Release\netstandard2.0\Click-A-Tel.dll
+C:\Users\Marcello\source\repos\Click-A-Tell-.NET\Click-A-Tel\obj\Release\netstandard2.0\Click-A-Tel.pdb

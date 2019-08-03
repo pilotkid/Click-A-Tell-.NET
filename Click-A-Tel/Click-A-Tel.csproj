@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -7,14 +7,25 @@
     <Authors>Marcello Bachechi</Authors>
     <Product>Click A Tell</Product>
     <PackageId>ClickATellAPI</PackageId>
-    <Description>This is an unoffical Click A Tell platform API for .NET</Description>
+    <Description>This is an unoffical Click A Tell platform API for .NET
+Allows 
+- Checking account Balance
+- Sending Text Messages
+- Checking Text Status</Description>
     <PackageIconUrl>https://avatars2.githubusercontent.com/u/7206811?s=280&amp;v=4</PackageIconUrl>
-    <Version>1.0.1</Version>
-    <AssemblyVersion>1.0.1.6</AssemblyVersion>
-    <FileVersion>1.0.1.5</FileVersion>
+    <Version>1.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
     <ApplicationIcon />
     <OutputType>Library</OutputType>
     <StartupObject />
+    <RepositoryUrl>https://github.com/pilotkid/Click-A-Tell-.NET</RepositoryUrl>
+    <RepositoryType>GIT</RepositoryType>
+    <Copyright>2019 Marcello Bachechi</Copyright>
+    <PackageProjectUrl>https://github.com/pilotkid/Click-A-Tell-.NET</PackageProjectUrl>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageLicenseFile>v0.9.txt</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
@@ -23,6 +34,13 @@
 
   <ItemGroup>
     <Folder Include="Properties\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\v0.9.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>

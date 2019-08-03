@@ -220,10 +220,11 @@
   },
   "packageFolders": {
     "C:\\Users\\Marcello\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\Marcello\\source\\repos\\Click-A-Tell-.NET\\Click-A-Tel\\Click-A-Tel.csproj",
       "projectName": "ClickATellAPI",
@@ -232,11 +233,13 @@
       "outputPath": "C:\\Users\\Marcello\\source\\repos\\Click-A-Tell-.NET\\Click-A-Tel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Marcello\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
