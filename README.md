@@ -1,13 +1,12 @@
-
 # Click-A-Tell-.NET
 **This is an unoffical Click A Tell platform API for .NET**
 
 ## Install Package
+https://www.nuget.org/packages/ClickATellAPI/
+
 In Visual Studio goto View -> Other Windows -> Package manager and type
   
     Install-Package ClickATellAPI -Version 1.0.0
-
-https://www.nuget.org/packages/ClickATellAPI/
 
 **or**
 
