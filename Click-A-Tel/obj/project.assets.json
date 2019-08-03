@@ -223,13 +223,13 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcello\\source\\repos\\Click-A-Tel\\Click-A-Tel\\Click-A-Tel.csproj",
-      "projectName": "Click A Tell HTTP  API",
-      "projectPath": "C:\\Users\\Marcello\\source\\repos\\Click-A-Tel\\Click-A-Tel\\Click-A-Tel.csproj",
+      "projectUniqueName": "C:\\Users\\Marcello\\source\\repos\\Click-A-Tell-.NET\\Click-A-Tel\\Click-A-Tel.csproj",
+      "projectName": "ClickATellAPI",
+      "projectPath": "C:\\Users\\Marcello\\source\\repos\\Click-A-Tell-.NET\\Click-A-Tel\\Click-A-Tel.csproj",
       "packagesPath": "C:\\Users\\Marcello\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcello\\source\\repos\\Click-A-Tel\\Click-A-Tel\\obj\\",
+      "outputPath": "C:\\Users\\Marcello\\source\\repos\\Click-A-Tell-.NET\\Click-A-Tel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

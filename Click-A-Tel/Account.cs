@@ -18,7 +18,11 @@ namespace ClickATel
         /// <returns>Account Balance</returns>
         public static decimal GetBalance()
         {
-            return GetBalance(out string ignore);
+            //Get Balance Tuple
+            GetBalance(out Tuple<decimal, string> Vals);
+
+            //Return the decimal value
+            return Vals.Item1;
         }//END METHOD
 
 
@@ -26,7 +30,7 @@ namespace ClickATel
         /// Gets the account balance and currency type
         /// </summary>
         /// <param name="Currency">Out string for the currency type</param>
-        /// <returns>Decimal of account balance</returns>
+        /// <returns>Account balance</returns>
         public static decimal GetBalance(out string Currency)
         {
             //Get Balance Tuple
