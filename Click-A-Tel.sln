@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Click-A-Tel", "Click-A-Tel\Click-A-Tel.csproj", "{1FDB9883-CBC1-4637-A216-37E455A1FEBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FDB9883-CBC1-4637-A216-37E455A1FEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDB9883-CBC1-4637-A216-37E455A1FEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDB9883-CBC1-4637-A216-37E455A1FEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDB9883-CBC1-4637-A216-37E455A1FEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DBEFF46-270A-445F-8D8D-81674742DFA9}
+	EndGlobalSection
+EndGlobal

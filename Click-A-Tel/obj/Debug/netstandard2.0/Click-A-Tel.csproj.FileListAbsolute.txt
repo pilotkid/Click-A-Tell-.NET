@@ -1,0 +1,9 @@
+C:\Users\Marcello\source\repos\Click-A-Tel\Click-A-Tel\bin\Debug\netstandard2.0\Click-A-Tel.deps.json
+C:\Users\Marcello\source\repos\Click-A-Tel\Click-A-Tel\bin\Debug\netstandard2.0\Click-A-Tel.dll
+C:\Users\Marcello\source\repos\Click-A-Tel\Click-A-Tel\bin\Debug\netstandard2.0\Click-A-Tel.pdb
+C:\Users\Marcello\source\repos\Click-A-Tel\Click-A-Tel\obj\Debug\netstandard2.0\Click-A-Tel.csprojAssemblyReference.cache
+C:\Users\Marcello\source\repos\Click-A-Tel\Click-A-Tel\obj\Debug\netstandard2.0\Click-A-Tel.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\source\repos\Click-A-Tel\Click-A-Tel\obj\Debug\netstandard2.0\Click-A-Tel.AssemblyInfoInputs.cache
+C:\Users\Marcello\source\repos\Click-A-Tel\Click-A-Tel\obj\Debug\netstandard2.0\Click-A-Tel.AssemblyInfo.cs
+C:\Users\Marcello\source\repos\Click-A-Tel\Click-A-Tel\obj\Debug\netstandard2.0\Click-A-Tel.dll
+C:\Users\Marcello\source\repos\Click-A-Tel\Click-A-Tel\obj\Debug\netstandard2.0\Click-A-Tel.pdb

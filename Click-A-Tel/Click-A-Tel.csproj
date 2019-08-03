@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Click_A_Tel</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Marcello Bachechi</Authors>
+    <Product>Click A Tell</Product>
+    <PackageId>Click A Tell HTTP  API</PackageId>
+    <Description>This is an unoffical Click A Tell platform API for .NET</Description>
+    <PackageIconUrl>https://avatars2.githubusercontent.com/u/7206811?s=280&amp;v=4</PackageIconUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="newtonsoft.json" Version="12.0.2" />
+  </ItemGroup>
+
+</Project>
