@@ -6,7 +6,7 @@ https://www.nuget.org/packages/ClickATellAPI/
 
 In Visual Studio goto View -> Other Windows -> Package manager and type
   
-    Install-Package ClickATellAPI -Version 1.0.0
+    Install-Package ClickATellAPI 
 
 **or**
 
