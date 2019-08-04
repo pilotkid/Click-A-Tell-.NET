@@ -1,8 +1,20 @@
-
 # Click-A-Tell-.NET
 **This is an unoffical Click A Tell platform API for .NET**
 
 ## Install Package
+https://www.nuget.org/packages/ClickATellAPI/
+
+In Visual Studio goto View -> Other Windows -> Package manager and type
+  
+    Install-Package ClickATellAPI -Version 1.0.0
+
+**or**
+
+1. Goto Project -> Manage NuGet packages
+2. Click Browse
+3. Search ClickATellAPI
+4. On the right hand side click install 
+
 
 ## Usage
 
@@ -14,13 +26,13 @@ Add Namespaces
     
 Configure API Key
 
-    Authenticate.ApiKey = "8Jr1Jr9oQFGCV4wnCvHOnA==";
+    Authenticate.ApiKey = "8Jr1Jr9oQFGCV4wDfaEnA==";
 	Authenticate.Test_Login(true);//Test API Key
     
 Setup [country code](https://countrycode.org/) and sending phone number
 
     Settings.CountryCode = 1; //Country code prefix
-    Settings.DefaultFromNumber = "7195552020";
+    Settings.DefaultFromNumber = "7195552020";//ONLY FOR TWO WAY INTEGRATIONS
     
 Get Account Balance
 
