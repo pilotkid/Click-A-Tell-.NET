@@ -9,6 +9,15 @@ namespace ClickATel.Models.Results
     {
         [JsonProperty(PropertyName = "messages")]
         public List<SendMessageStatus> Message { get; set; }
+
+        [JsonProperty(PropertyName = "errorCode")]
+        public int? errorCode { get; set; }
+
+        [JsonProperty(PropertyName = "error")]
+        public string error { get; set; }
+
+        [JsonProperty(PropertyName = "errorDescription")]
+        public string errorDescription { get; set; }
     }
 
     public class SendMessageStatus

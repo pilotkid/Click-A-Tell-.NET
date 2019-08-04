@@ -25,7 +25,7 @@ namespace ClickATel
             requestMessage.Headers.Add("Accept", "application/json");
             HttpResponseMessage response = httpClient.SendAsync(requestMessage).Result;
 
-            if (ThrowException)
+            if (!response.IsSuccessStatusCode && ThrowException)
                 throw new Exception("Authentication Failed!\n\n" + response.ReasonPhrase + "\n\n" + response.Content);
 
             return response.StatusCode == System.Net.HttpStatusCode.Accepted;

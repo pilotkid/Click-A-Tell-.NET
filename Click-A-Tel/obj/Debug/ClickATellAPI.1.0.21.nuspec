@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ClickATellAPI</id>
+    <version>1.0.21</version>
+    <authors>Marcello Bachechi</authors>
+    <owners>Marcello Bachechi</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">v0.9.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <projectUrl>https://github.com/pilotkid/Click-A-Tell-.NET</projectUrl>
+    <iconUrl>https://avatars2.githubusercontent.com/u/7206811?s=280&amp;v=4</iconUrl>
+    <description>This is an unoffical Click A Tell platform API for .NET
+Allows 
+- Checking account Balance
+- Sending Text Messages
+- Checking Text Status</description>
+    <copyright>2019 Marcello Bachechi</copyright>
+    <repository type="GIT" url="https://github.com/pilotkid/Click-A-Tell-.NET" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="newtonsoft.json" version="12.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Marcello\source\repos\Click-A-Tell-.NET\Click-A-Tel\bin\Debug\netstandard2.0\Click-A-Tel.dll" target="lib\netstandard2.0\Click-A-Tel.dll" />
+    <file src="C:\Users\Marcello\source\repos\Click-A-Tell-.NET\v0.9.txt" target="v0.9.txt" />
+  </files>
+</package>

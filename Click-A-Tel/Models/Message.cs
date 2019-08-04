@@ -29,8 +29,21 @@ namespace ClickATel.Models
             }
         }
 
+        private string from_num;
+
         [JsonProperty(PropertyName = "from")]
-        public string From { get; set; } = Settings.DefaultFromNumber;
+        public string From
+        {
+            get
+            {
+                if (string.IsNullOrWhiteSpace(from_num))
+                    return Settings.DefaultFromNumber;
+                else
+                    return from_num;
+            }
+
+            set => from_num = value;
+        }
 
         [JsonProperty(PropertyName = "scheduledDeliveryTime")]
         public DateTime? DeliverAt { get; set; } = null;

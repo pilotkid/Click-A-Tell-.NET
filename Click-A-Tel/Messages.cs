@@ -179,6 +179,11 @@ namespace ClickATel
             //Parse Request
             SendMessagesStatus Msg = JsonConvert.DeserializeObject<SendMessagesStatus>(JSON);
 
+            if(Msg.Message.Count < 1)
+            {
+                Msg.Message.Add(new SendMessageStatus() { Accepted = false, error = Msg.error, errorCode = Msg.errorCode, errorDescription = Msg.errorDescription, toNumber = msg.To[0] });
+            }
+
             return Msg;
         }//END METHOD
 
