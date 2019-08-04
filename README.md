@@ -32,7 +32,7 @@ Configure API Key
 Setup [country code](https://countrycode.org/) and sending phone number
 
     Settings.CountryCode = 1; //Country code prefix
-    Settings.DefaultFromNumber = "7195552020";
+    Settings.DefaultFromNumber = "7195552020";//ONLY FOR TWO WAY INTEGRATIONS
     
 Get Account Balance
 
