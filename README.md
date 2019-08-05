@@ -48,7 +48,7 @@ Send message to multiple recipients
     
 Send message at a specific time
 
-    SendMessageStatus SendStatus1 = MessagesActions.SendMessage("Hello World!", DateTime.Now.AddHours(1) ,"7195553652");
+    SendMessageStatus SendStatus1 = MessagesActions.SendMessage("Hello World!", DateTime.UtcNow.AddHours(1) ,"7195553652");
     
 Get message status from gateway
 
