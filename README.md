@@ -1,12 +1,14 @@
 # Click-A-Tell-.NET
 **This is an unoffical Click A Tell platform API for .NET**
 
+https://youtu.be/91XmYKn-7xc
+
 ## Install Package
 https://www.nuget.org/packages/ClickATellAPI/
 
 In Visual Studio goto View -> Other Windows -> Package manager and type
   
-    Install-Package ClickATellAPI -Version 1.0.0
+    Install-Package ClickATellAPI 
 
 **or**
 
@@ -48,7 +50,7 @@ Send message to multiple recipients
     
 Send message at a specific time
 
-    SendMessageStatus SendStatus1 = MessagesActions.SendMessage("Hello World!", DateTime.Now.AddHours(1) ,"7195553652");
+    SendMessageStatus SendStatus1 = MessagesActions.SendMessage("Hello World!", DateTime.UtcNow.AddHours(1) ,"7195553652");
     
 Get message status from gateway
 
