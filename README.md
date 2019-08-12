@@ -1,6 +1,8 @@
 # Click-A-Tell-.NET
 **This is an unoffical Click A Tell platform API for .NET**
 
+https://youtu.be/91XmYKn-7xc
+
 ## Install Package
 https://www.nuget.org/packages/ClickATellAPI/
 
