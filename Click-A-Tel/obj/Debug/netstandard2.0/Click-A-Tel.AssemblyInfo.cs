@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("This is an unoffical Click A Tell platform API for .NET\r\nAllows \r\n- Checking acco" +
     "unt Balance\r\n- Sending Text Messages\r\n- Checking Text Status")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.21")]
 [assembly: System.Reflection.AssemblyProductAttribute("Click A Tell")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Click-A-Tel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

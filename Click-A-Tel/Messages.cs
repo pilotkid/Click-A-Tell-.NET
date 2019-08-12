@@ -158,8 +158,10 @@ namespace ClickATel
                 new JsonSerializerSettings
                 {
                     NullValueHandling = NullValueHandling.Ignore,
-                    DateFormatString = "yyyy-MM-dd'T'HH:mm:sszzz",
-            });
+                    DateFormatString = "yyyy-MM-ddThh:mm:sszz00"//yyyy -MM-ddHH:mm:sszzz",
+                });
+
+            Console.WriteLine(Req_JSON);
 
             //Make Request
             HttpClient httpClient = new HttpClient();

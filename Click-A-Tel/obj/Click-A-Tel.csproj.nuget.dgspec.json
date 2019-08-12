@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\Marcello\\source\\repos\\Click-A-Tell-.NET\\Click-A-Tel\\Click-A-Tel.csproj": {
-      "version": "1.0.2",
+      "version": "1.0.21",
       "restore": {
         "projectUniqueName": "C:\\Users\\Marcello\\source\\repos\\Click-A-Tell-.NET\\Click-A-Tel\\Click-A-Tel.csproj",
         "projectName": "ClickATellAPI",
@@ -28,6 +28,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Users\\Marcello\\source\\repos\\Click-A-Tell-.NET\\Click-A-Tel\\bin": {},
+          "C:\\Users\\Marcello\\source\\repos\\PreSquadAPI\\PreSquadAPI\\bin": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
