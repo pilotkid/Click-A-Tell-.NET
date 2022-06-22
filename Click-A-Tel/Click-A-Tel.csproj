@@ -30,7 +30,7 @@ Allows
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="newtonsoft.json" Version="12.0.2" />
+    <PackageReference Include="newtonsoft.json" Version="13.0.1" />
   </ItemGroup>
 
   <ItemGroup>
